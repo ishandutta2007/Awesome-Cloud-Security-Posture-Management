@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Security-Posture-Management?style=flat-square" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Security-Posture-Management?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Security-Posture-Management?style=flat-square" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Security-Posture-Management?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Security-Posture-Management?style=flat-square" alt="License" /></a>
@@ -74,7 +74,7 @@ The commercial market offers agentless SideScanning, deep Security Graph attack-
 
 Community-driven open-source projects provide flexible, transparent, cost-effective posture auditing, custom SQL querying, policy-as-code enforcement, and IaC security scanning.
 
-| Repository | Stars | License | Description & Scope |
+| Repository | GitHub_Stars | License | Description & Scope |
 | :--- | :--- | :--- | :--- |
 | **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** | [<img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white" alt="Trivy Stars" />](https://github.com/aquasecurity/trivy/stargazers) | Apache-2.0 | Comprehensive security scanner for container images, file systems, Git repos, IaC templates, and AWS/Kubernetes posture. |
 | **[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)** | [<img src="https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white" alt="Prowler Stars" />](https://github.com/prowler-cloud/prowler/stargazers) | Apache-2.0 | Leading open-source security assessment tool for AWS, Azure, GCP, and Kubernetes against CIS benchmarks and GDPR/SOC2 standards. |
